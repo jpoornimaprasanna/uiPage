@@ -1,0 +1,151 @@
+.img {
+    width: 100%;
+    height: 85%;
+    position: absolute;
+}
+
+.firstPara,
+.secondPara {
+    position: relative;
+    color: white;
+}
+
+.button1 {
+    position: relative;
+}
+
+.imgbody {
+    width: "90%";
+}
+
+.form {
+    background-color: whitesmoke;
+    padding: 2%;
+    z-index: 999;
+}
+
+.headerContent {
+    width: -webkit-fill-available;
+    display: inline;
+}
+
+.content,
+.form {
+    margin-top: 5%;
+}
+
+.formElements {
+    margin-bottom: 3%;
+}
+
+.form p {
+    font-weight: bold;
+}
+
+input[type=email] {
+    width: 100%;
+    border: 1px solid gainsboro;
+    padding: 3%;
+}
+
+textarea {
+    width: 100%;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.bitmap {
+    width: 50px;
+    height: 50px;
+}
+
+.adult-paediatric-b {
+    color: #FFFFFF;
+    font-family: Titillium;
+    font-size: 31px;
+    letter-spacing: 1.28px;
+    line-height: 40px;
+    width: 622px;
+    text-align: left;
+}
+
+.haematology-oncolo {
+    color: #FFFFFF;
+    font-family: StagSans-Light;
+    font-size: 25px;
+    letter-spacing: 3.59px;
+    line-height: 34px;
+    width: 599px;
+    text-align: left;
+}
+
+.rectangle {
+    background-image: radial-gradient(-35.15% 100%, #2EC4B8 0%, #6078EA 100%)!important;
+    border-radius: 4px;
+    width: 586px;
+    height: 95px;
+}
+
+.replacement-of-disea {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 17px;
+    line-height: 20px;
+    width: 532px;
+    text-align: left;
+}
+
+.secondSession {
+    margin-top: 13%;
+    width: 80%;
+}
+
+.thirdSession {
+    width: 80%;
+}
+
+.pediatric-bmt {
+    color: #22B78E;
+    font-family: StagSans;
+    font-size: 24px;
+    letter-spacing: 0.99px;
+    line-height: 44px;
+    text-align: left;
+}
+
+.doctors {
+    color: #22B78E;
+    font-family: StagSans;
+    font-size: 31px;
+    letter-spacing: 1.28px;
+    line-height: 44px;
+    text-align: left;
+}
+
+.doctorsfSession {
+    background-color: #F9F9FF;
+    border-radius: 4px;
+    width: 539px;
+    height: 1064px;
+}
+
+.dr-vijay-agarwal-copy {
+    color: #1D5AA6;
+    font-family: StagSans;
+    font-size: 22px;
+    letter-spacing: 1.76px;
+    text-align: center;
+}
+
+.md-mrcp-ph-d-cct-le-copy {
+    color: #1D5AA6;
+    font-family: StagSans;
+    font-size: 15px;
+    letter-spacing: 1.2px;
+    text-align: center;
+    padding: 2%;
+}
+
+.rectangle {}
